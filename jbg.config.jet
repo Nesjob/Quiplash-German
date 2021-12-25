@@ -30,10 +30,10 @@
 	"gameShortName":"Quiplash",
 	"allowIntroSkip":"true",
 	"supportsKeyboard":"true",
-	"joinUrl":"jackbox.tv",
+	"joinUrl":"jackbox.gg",
 	"supportsMouse":"true",
 	"connectingDurationTrouble":"15000",
 	"dev-console":"false",
 	"buildTimeStamp":"2019-12-12 16:17:38",
-	"buildVersion":"Build:  23.1-DE"
+	"buildVersion":"Build:  23.2-DE"
 }
