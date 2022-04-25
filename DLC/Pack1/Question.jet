@@ -13,7 +13,7 @@
     {
       "x": false,
       "id": 21125,
-      "prompt": "Eine Alternative den Zauberer von Oz zu finden: \u201cFolge dem Weg der <BLANK>\u201d"
+      "prompt": "Eine Alternative, den Zauberer von Oz zu finden: \u201cFolge dem Weg der <BLANK>\u201d"
     },
     {
       "x": false,
@@ -23,17 +23,17 @@
     {
       "x": false,
       "id": 21134,
-      "prompt": "Etwas an dem sich richtig Reiche erfreuen w\u00fcrden: Ein mit Diamanten besetztes <BLANK>"
+      "prompt": "Etwas, an dem sich richtig Reiche erfreuen w\u00fcrden: Ein mit Diamanten besetztes <BLANK>"
     },
     {
       "x": false,
       "id": 21135,
-      "prompt": "Das Beste daran 100 Jahre alt zu werden"
+      "prompt": "Das Beste daran, 100 Jahre alt zu werden"
     },
     {
       "x": false,
       "id": 21147,
-      "prompt": "Vergiss Kaffee. Sprich nicht mit mir bis ich meine <BLANK> hatte"
+      "prompt": "Vergiss Kaffee. Sprich nicht mit mir, bis ich meine <BLANK> hatte"
     },
     {
       "x": false,
@@ -43,7 +43,7 @@
     {
       "x": false,
       "id": 21152,
-      "prompt": "Der Titel eines Podcasts den du dir niemals anh\u00f6ren w\u00fcrdest"
+      "prompt": "Der Titel eines Podcasts, den du dir niemals anh\u00f6ren w\u00fcrdest"
     },
     {
       "x": false,
@@ -73,22 +73,22 @@
     {
       "x": false,
       "id": 21171,
-      "prompt": "Der Name eines Fast-Food Restaurants aus der Steinzeit"
+      "prompt": "Der Name eines Fast Food-Restaurants aus der Steinzeit"
     },
     {
       "x": false,
       "id": 21172,
-      "prompt": "Der Titel einer Bachelorarbeit der mit Sicherheit abgelehnt werden w\u00fcrde"
+      "prompt": "Der Titel einer Bachelorarbeit, der mit Sicherheit abgelehnt werden w\u00fcrde"
     },
     {
       "x": false,
       "id": 21173,
-      "prompt": "Anstelle von \u201cCheese!\u201d w\u00fcrde dich der schlechteste Familien-Fotograf dazu auffordern \u201c<BLANK>!\u201d zu rufen"
+      "prompt": "Anstelle von \u201cCheese!\u201d w\u00fcrde dich der schlechteste Familien-Fotograf dazu auffordern, \u201c<BLANK>!\u201d zu rufen"
     },
     {
       "x": false,
       "id": 21175,
-      "prompt": "Woran denkt Abraham Lincolns Statue w\u00e4hrend sie da im Lincoln Memorial sitzt?"
+      "prompt": "Woran denkt Abraham Lincolns Statue, w\u00e4hrend sie da im Lincoln Memorial sitzt?"
     },
     {
       "x": false,
@@ -113,12 +113,12 @@
     {
       "x": false,
       "id": 21189,
-      "prompt": "Das Letzte was du in deinen Luftsch\u00e4chten finden willst"
+      "prompt": "Das Letzte, was du in deinen Luftsch\u00e4chten finden willst"
     },
     {
       "x": false,
       "id": 21195,
-      "prompt": "Wonach w\u00fcrde Justin Biebers Parf\u00fcm-Kollektion riechen"
+      "prompt": "Wonach w\u00fcrde Justin Biebers Parf\u00fcm-Kollektion riechen?"
     },
     {
       "x": false,
@@ -128,12 +128,12 @@
     {
       "x": true,
       "id": 21203,
-      "prompt": "Die Pointe eines versauten <i>Star Wars</i> Witzes"
+      "prompt": "Die Pointe eines versauten <i>Star Wars</i>-Witzes"
     },
     {
       "x": false,
       "id": 21205,
-      "prompt": "Der Name eines Kabelfernsehsenders den niemand schaut"
+      "prompt": "Der Name eines Kabelfernsehsenders, den niemand schaut"
     },
     {
       "x": false,
@@ -148,7 +148,7 @@
     {
       "x": false,
       "id": 21209,
-      "prompt": "Wie sollte man auf keinen Fall die Toilette von einer Vestopfung frei machen"
+      "prompt": "Wie sollte man auf keinen Fall die Toilette von einer Vestopfung frei machen?"
     },
     {
       "x": false,
@@ -163,27 +163,27 @@
     {
       "x": false,
       "id": 21214,
-      "prompt": "In der Zukunft werden Kinog\u00e4nger ins Kino st\u00fcrmen um <i>Jurassic Park 10: <BLANK></i> zu sehen"
+      "prompt": "In der Zukunft werden Kinog\u00e4nger ins Kino st\u00fcrmen, um <i>Jurassic Park 10: <BLANK></i> zu sehen"
     },
     {
       "x": false,
       "id": 21221,
-      "prompt": "Das Beste das du schreien kannst, w\u00e4hrend du in einem Fass die Niagara F\u00e4lle durchquerst"
+      "prompt": "Das Beste, das du schreien kannst, w\u00e4hrend du in einem Fass die Niagaraf\u00e4lle durchquerst"
     },
     {
       "x": false,
       "id": 21225,
-      "prompt": "Etwas Seltsames das sich jemand einrahmen und aufh\u00e4ngen l\u00e4sst"
+      "prompt": "Etwas seltsames, das sich jemand einrahmen und aufh\u00e4ngen l\u00e4sst"
     },
     {
       "x": false,
       "id": 21228,
-      "prompt": "Der absolut schlechteste Moment in dem ein Vogel auf dich schei\u00dfen kann"
+      "prompt": "Der absolut schlechteste Moment, in dem ein Vogel auf dich schei\u00dfen kann"
     },
     {
       "x": false,
       "id": 21230,
-      "prompt": "Du wei\u00dft du bist ber\u00fchmt, wenn \u2026"
+      "prompt": "Du wei\u00dft, du bist ber\u00fchmt, wenn <BLANK>"
     },
     {
       "x": false,
@@ -193,17 +193,17 @@
     {
       "x": true,
       "id": 21240,
-      "prompt": "Was passiert wenn man Augenkontakt mit einer verr\u00fcckten Person aus der U-Bahn aufnimmt"
+      "prompt": "Was passiert, wenn man Augenkontakt mit einer verr\u00fcckten Person aus der U-Bahn aufnimmt?"
     },
     {
       "x": false,
       "id": 21241,
-      "prompt": "Wo wird Charlie Brown mit 45 Jahren enden"
+      "prompt": "Wo wird Charlie Brown mit 45 Jahren enden?"
     },
     {
       "x": false,
       "id": 21242,
-      "prompt": "Der wahre Grund weshalb V\u00f6gel im Winter in den S\u00fcden fliegen"
+      "prompt": "Der wahre Grund, weshalb V\u00f6gel im Winter in den S\u00fcden fliegen"
     },
     {
       "x": false,
@@ -218,7 +218,7 @@
     {
       "x": false,
       "id": 21250,
-      "prompt": "Es w\u00e4re lustig mit anzusehen wie <BLANK> Rolltreppe f\u00e4hrt"
+      "prompt": "Es w\u00e4re lustig mit anzusehen, wie <BLANK> Rolltreppe f\u00e4hrt"
     },
     {
       "x": false,
@@ -228,12 +228,12 @@
     {
       "x": true,
       "id": 21255,
-      "prompt": "Womit sollte man unter keinen Umst\u00e4nden einen BH ausstopfen"
+      "prompt": "Womit sollte man unter keinen Umst\u00e4nden einen BH ausstopfen?"
     },
     {
       "x": false,
       "id": 21258,
-      "prompt": "Eine Auszeichnung die du nicht gewinnen m\u00f6chtest: H\u00f6chste Aussicht auf <BLANK>"
+      "prompt": "Eine Auszeichnung, die du nicht gewinnen m\u00f6chtest: H\u00f6chste Aussicht auf <BLANK>"
     },
     {
       "x": false,
@@ -248,12 +248,12 @@
     {
       "x": false,
       "id": 21264,
-      "prompt": "Eine merkw\u00fcrdige Strafe die von einem Richter verh\u00e4ngt wird"
+      "prompt": "Eine merkw\u00fcrdige Strafe, die von einem Richter verh\u00e4ngt wird"
     },
     {
       "x": false,
       "id": 21266,
-      "prompt": "Das Schlechteste das dir dein Navigationssystem ansagt: \u201cIn zwei Kilometern <BLANK>\u201d"
+      "prompt": "Das Schlechteste, das dir dein Navigationssystem ansagt: \u201cIn zwei Kilometern <BLANK>\u201d"
     },
     {
       "x": true,
@@ -273,32 +273,32 @@
     {
       "x": false,
       "id": 21279,
-      "prompt": "Eine passende Bestrafung f\u00fcr Leute die ihre Chips doppelt eindippen"
+      "prompt": "Eine passende Bestrafung f\u00fcr Leute, die ihre Chips doppelt eindippen"
     },
     {
       "x": false,
       "id": 21281,
-      "prompt": "Ein Video welches mit Leichtigkeit \u00fcber 150 Millionen Aufrufe auf YouTube bekommen w\u00fcrde: \u201cH\u00fchner <BLANK>\u201d"
+      "prompt": "Ein Video, welches mit Leichtigkeit \u00fcber 150 Millionen Aufrufe auf YouTube bekommen w\u00fcrde: \u201cH\u00fchner <BLANK>\u201d"
     },
     {
       "x": false,
       "id": 21282,
-      "prompt": "Ein verwunderliches Ding welches an deiner Schuhsohle klebt"
+      "prompt": "Ein verwunderliches Ding, welches an deiner Schuhsohle klebt"
     },
     {
       "x": true,
       "id": 21286,
-      "prompt": "Ein vornehmer Gegenstand den man zu einer Orgie in der Vorstadt mitbringt"
+      "prompt": "Ein vornehmer Gegenstand, den man zu einer Orgie in der Vorstadt mitbringt"
     },
     {
       "x": true,
       "id": 21290,
-      "prompt": "Eine beliebte Fernsehsendung welche das Wort \u201ckacken\u201d beinhaltet"
+      "prompt": "Eine beliebte Fernsehsendung, welche das Wort \u201ckacken\u201d beinhaltet"
     },
     {
       "x": false,
       "id": 21292,
-      "prompt": "Das Schlechteste \u201cim Honigmantel\u201d"
+      "prompt": "Das schlechteste \u201cim Honigmantel\u201d"
     },
     {
       "x": false,
@@ -308,17 +308,17 @@
     {
       "x": false,
       "id": 21297,
-      "prompt": "Was m\u00f6chtest du unter keinen Umst\u00e4nden unter deinem Hotelbett finden"
+      "prompt": "Was m\u00f6chtest du unter keinen Umst\u00e4nden unter deinem Hotelbett finden?"
     },
     {
       "x": false,
       "id": 21301,
-      "prompt": "Du wei\u00dft dein Doktor ist verr\u00fcckt geworden, wenn er dir sagt, du sollst einmal t\u00e4glich <BLANK>"
+      "prompt": "Du wei\u00dft, dein Doktor ist verr\u00fcckt geworden, wenn er dir sagt, du sollst einmal t\u00e4glich <BLANK>"
     },
     {
       "x": false,
       "id": 21303,
-      "prompt": "Der gr\u00f6\u00dfte Nachteil ein Teenage Mutant Ninja Turtle zu sein"
+      "prompt": "Der gr\u00f6\u00dfte Nachteil, ein Teenage Mutant Ninja Turtle zu sein"
     },
     {
       "x": false,
@@ -333,7 +333,7 @@
     {
       "x": false,
       "id": 21318,
-      "prompt": "Du wei\u00dft du bist s\u00fcchtig nach Schokolade, wenn ..."
+      "prompt": "Du wei\u00dft, du bist s\u00fcchtig nach Schokolade, wenn <BLANK>"
     },
     {
       "x": false,
@@ -383,7 +383,7 @@
     {
       "x": false,
       "id": 21539,
-      "prompt": "Was hat dich dieses mal in die Notaufnahme verschlagen?"
+      "prompt": "Was hat dich dieses Mal in die Notaufnahme verschlagen?"
     },
     {
       "x": false,
@@ -393,7 +393,7 @@
     {
       "x": false,
       "id": 21541,
-      "prompt": "Der gr\u00f6\u00dfte Fehler der dir passiert, w\u00e4hrend du auf twitch.tv streamst"
+      "prompt": "Der gr\u00f6\u00dfte Fehler, der dir passiert, w\u00e4hrend du auf twitch.tv streamst"
     },
     {
       "x": false,
@@ -423,12 +423,12 @@
     {
       "x": false,
       "id": 21608,
-      "prompt": "Du wei\u00dft du befindest dich in einem merkw\u00fcrdigen Restaurant, wenn dich der Kellner fragt: \u201cM\u00f6chten Sie <BLANK> dazu?\u201d"
+      "prompt": "Du wei\u00dft, du befindest dich in einem merkw\u00fcrdigen Restaurant, wenn dich der Kellner fragt: \u201cM\u00f6chten Sie <BLANK> dazu?\u201d"
     },
     {
       "x": false,
       "id": 21613,
-      "prompt": "Es ist verdammt unh\u00f6flich mit offenem Mund <BLANK>"
+      "prompt": "Es ist verdammt unh\u00f6flich, mit offenem Mund <BLANK>"
     },
     {
       "x": false,
@@ -468,7 +468,7 @@
     {
       "x": false,
       "id": 21633,
-      "prompt": "Du wachst 100 Jahre in der Zukunft wieder auf und bist schockiert dass du <BLANK> vorfindest"
+      "prompt": "Du wachst 100 Jahre in der Zukunft wieder auf und bist schockiert, dass du <BLANK> vorfindest"
     },
     {
       "x": false,
@@ -478,17 +478,17 @@
     {
       "x": false,
       "id": 21637,
-      "prompt": "Es ist schlimm in einer langen Schlange anzustehen, aber es ist noch viel schlimmer in einer langen Schlange anzustehen f\u00fcr <BLANK>"
+      "prompt": "Es ist schlimm, in einer langen Schlange anzustehen, aber es ist noch viel schlimmer, in einer langen Schlange anzustehen f\u00fcr <BLANK>"
     },
     {
       "x": true,
       "id": 21638,
-      "prompt": "Der unpassendste Ort an dem ein Bild der Jungfrau Maria h\u00e4ngt"
+      "prompt": "Der unpassendste Ort, an dem ein Bild der Jungfrau Maria h\u00e4ngt"
     },
     {
       "x": true,
       "id": 21640,
-      "prompt": "Das Schlimmste das mit Noahs Arche h\u00e4tte passieren k\u00f6nnen"
+      "prompt": "Das Schlimmste, das mit Noahs Arche h\u00e4tte passieren k\u00f6nnen"
     },
     {
       "x": false,
@@ -498,7 +498,7 @@
     {
       "x": false,
       "id": 21646,
-      "prompt": "Etwas Eigenartiges das ein Pfarrer am Ende einer Predigt sagt"
+      "prompt": "Etwas Eigenartiges, das ein Pfarrer am Ende einer Predigt sagt"
     },
     {
       "x": false,
@@ -513,12 +513,12 @@
     {
       "x": false,
       "id": 21652,
-      "prompt": "Etwas Unangebrachtes das dir der Toiletten-Aufseher anbietet"
+      "prompt": "Etwas Unangebrachtes, das dir der Toiletten-Aufseher anbietet"
     },
     {
       "x": false,
       "id": 21653,
-      "prompt": "Ein vergessenes Buch der Harry Potter Reihe: <i>Harry Potter und <BLANK></i>"
+      "prompt": "Ein vergessenes Buch der Harry Potter-Reihe: <i>Harry Potter und <BLANK></i>"
     },
     {
       "x": false,
@@ -528,7 +528,7 @@
     {
       "x": false,
       "id": 21657,
-      "prompt": "Worauf kaust du, wenn du keinen Kaugummi mehr hast"
+      "prompt": "Worauf kaust du, wenn du keinen Kaugummi mehr hast?"
     },
     {
       "x": false,
@@ -548,12 +548,12 @@
     {
       "x": false,
       "id": 21664,
-      "prompt": "Eine gute M\u00f6glichkeit um schnell die Schulden einer \u00fcberzogenen Kreditkarte zu begleichen"
+      "prompt": "Eine gute M\u00f6glichkeit, um schnell die Schulden einer \u00fcberzogenen Kreditkarte zu begleichen"
     },
     {
       "x": true,
       "id": 21665,
-      "prompt": "Etwas Verst\u00f6rendes das dein Gegen\u00fcber im Schlaf redet"
+      "prompt": "Etwas Verst\u00f6rendes, das dein Gegen\u00fcber im Schlaf redet"
     },
     {
       "x": false,
@@ -578,7 +578,7 @@
     {
       "x": false,
       "id": 21676,
-      "prompt": "Eine merkw\u00fcrdige Nachricht die dir deine Katze \u00fcber ihr Katzenklo \u00fcbermittelt"
+      "prompt": "Eine merkw\u00fcrdige Nachricht, die dir deine Katze \u00fcber ihr Katzenklo \u00fcbermittelt"
     },
     {
       "x": false,
@@ -603,7 +603,7 @@
     {
       "x": false,
       "id": 21689,
-      "prompt": "Der schlechteste Karnevalspreis den du gewinnen kannst"
+      "prompt": "Der schlechteste Karnevalspreis, den du gewinnen kannst"
     },
     {
       "x": true,
@@ -613,7 +613,7 @@
     {
       "x": false,
       "id": 22047,
-      "prompt": "Der beste Gegenstand der aus einer Kanone abgefeuert werden kann"
+      "prompt": "Der beste Gegenstand, der aus einer Kanone abgefeuert werden kann"
     },
     {
       "x": false,
